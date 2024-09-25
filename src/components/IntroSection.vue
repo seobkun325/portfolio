@@ -17,6 +17,7 @@
 							<div class="text">
 								<div> {{ introText.desc[0] }} </div>
 								<div> {{ introText.desc[1] }} </div>
+								<div> {{ introText.desc[2] }} </div>
 							</div>
 							<div class="img">
 									<img src="@/assets/img/about.png" alt="어바웃" />
